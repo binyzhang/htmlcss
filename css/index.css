@@ -1,0 +1,32 @@
+span {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+}
+
+.container{}
+
+.tips{
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 10px;
+    background-color: #ccc;
+}
+
+.tips > span {
+    /* font-family: 新宋体; */
+    font-size: 12px;
+}
+.tips > a {
+    text-decoration: underline;
+    color: #0000ff;
+    /* font-family: 新宋体; */
+    font-size: 12px;
+}
